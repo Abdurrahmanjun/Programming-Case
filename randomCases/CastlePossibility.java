@@ -1,4 +1,4 @@
-package randomCase;
+package randomCases;
 
 /**
  * Created by abdurrahmanjun on 7/28/17.
